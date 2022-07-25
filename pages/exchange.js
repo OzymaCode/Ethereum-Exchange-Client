@@ -122,7 +122,7 @@ const Exchange = () => {
       <div className="columns is-mobile is-centered">
         <div className="column is-half m-4 ">
           <h1 id="exchangeTip" className="has-text-black-bis">
-            Enter the address and amount you'd like to send
+            Enter the address and amount you&apos;d like to send
           </h1>
           <input
             type="text"
